@@ -1,16 +1,13 @@
-torch>=2.2.0
-numpy>=1.26.0
-pandas>=2.2.0
-scipy>=1.12.0
-scikit-learn>=1.4.0
-yfinance>=0.2.36
-finnhub-python>=2.4.19
-transformers>=4.40.0
-datasets>=2.19.0
-tqdm>=4.66.0
-matplotlib>=3.8.0
-seaborn>=0.13.0
-fastapi>=0.111.0
-uvicorn>=0.29.0
-pytest>=8.2.0
-properscoring>=0.1
+# No external dependencies required.
+# This project uses Python 3.8+ standard library only.
+#
+# Standard library modules used:
+#   math, statistics, random, itertools, functools,
+#   collections, dataclasses, enum, typing,
+#   heapq, bisect, re, json, csv, io, os, sys, time
+#
+# To run:
+#   python run_demos.py
+#
+# Python version:
+python_requires>=3.8
